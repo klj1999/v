@@ -8,10 +8,10 @@ sites=[
         "sub":"https://feiniaoyun.tk/api/v1/client/subscribe?token={token}"
     },
     {
-        "name":"kelecloud",
-        "url":"https://my.kelecloud.xyz/",
-        "reg_url":"https://my.kelecloud.xyz/api/v1/passport/auth/register",
-        "sub":"https://panel.kelecloud.xyz/api/v1/client/subscribe?token={token}"
+        "name":"onefall",
+        "url":"https://onefall.top/",
+        "reg_url":"https://onefall.top/api/v1/passport/auth/register",
+        "sub":"https://greenyun.tk/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"ckcloud",
