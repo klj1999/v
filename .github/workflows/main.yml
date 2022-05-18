@@ -52,8 +52,5 @@ jobs:
     - name: Single repo mirror
       uses: Yikun/hub-mirror-action@master
       with:
-        src: github/LiTugou
-        dst: gitee/li-tugou
-        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-        dst_token: ${{ secrets.GITEE_TOKEN }}
+        src: github/klj199
         static_list: "Crontab"
