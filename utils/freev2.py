@@ -8,10 +8,10 @@ sites=[
         "sub":"https://feiniaoyun.tk/api/v1/client/subscribe?token={token}"
     },
     {
-        "name":"onefall",
-        "url":"https://onefall.top/",
-        "reg_url":"https://onefall.top/api/v1/passport/auth/register",
-        "sub":"https://greenyun.tk/api/v1/client/subscribe?token={token}"
+        "name":"waiqi",
+        "url":"https://waiqi.xyz/",
+        "reg_url":"https://waiqi.xyz/api/v1/passport/auth/register",
+        "sub":"https://waiqi.xyz/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"ckcloud",
