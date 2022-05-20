@@ -18,25 +18,25 @@ sites=[
         "url":"https://www.ckcloud.xyz/",
         "reg_url":"https://www.ckcloud.xyz/api/v1/passport/auth/register",
         "sub":"https://www.ckcloud.xyz/api/v1/client/subscribe?token={token}"
-    }
+    },
     {
         "name":"rocket",
         "url":"https://rocketcloud.xyz/",
         "reg_url":"https://rocketcloud.xyz/api/v1/passport/auth/register",
         "sub":"https://rocket-sub.ddnsnode.com/api/v1/client/subscribe?token={token}"
-    }
+    },
     {
         "name":"kelecloud",
         "url":"https://my.kelecloud.xyz/",
         "reg_url":"https://my.kelecloud.xyz/api/v1/passport/auth/register",
         "sub":"https://panel.kelecloud.xyz/api/v1/client/subscribe?token={token}"
-    }
+    },
     {
         "name":"blackhole",
         "url":"https://blackholeservices.com/",
         "reg_url":"https://blackholeservices.com/api/v1/passport/auth/register",
         "sub":"https://hd.cdnsub.me/api/v1/client/subscribe?token={token}"
-    }
+    },
     {
         "name":"v2b",
         "url":"https://v2b.areulike.top/",
