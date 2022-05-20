@@ -31,6 +31,12 @@ sites=[
         "reg_url":"https://my.kelecloud.xyz/api/v1/passport/auth/register",
         "sub":"https://panel.kelecloud.xyz/api/v1/client/subscribe?token={token}"
     }
+    {
+        "name":"spacez",
+        "url":"https://www.spacez.cloud/",
+        "reg_url":"https://www.spacez.cloud/api/v1/passport/auth/register",
+        "sub":"https://www.speedasia.xyz/api/v1/client/subscribe?token={token}"
+    }
 ]
 
 class tempsite():
