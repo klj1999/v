@@ -26,10 +26,10 @@ sites=[
         "sub":"https://rocket-sub.ddnsnode.com/api/v1/client/subscribe?token={token}"
     },
     {
-        "name":"kelecloud",
-        "url":"https://my.kelecloud.xyz/",
-        "reg_url":"https://my.kelecloud.xyz/api/v1/passport/auth/register",
-        "sub":"https://panel.kelecloud.xyz/api/v1/client/subscribe?token={token}"
+        "name":"giao",
+        "url":"https://giaoyun.xyz/",
+        "reg_url":"https://giaoyun.xyz/api/v1/passport/auth/register",
+        "sub":"https://giaoyun.xyz/api/v1/client/subscribe?token={token}"
     },
     {
         "name":"blackhole",
