@@ -37,6 +37,12 @@ sites=[
         "reg_url":"https://blackholeservices.com/api/v1/passport/auth/register",
         "sub":"https://hd.cdnsub.me/api/v1/client/subscribe?token={token}"
     }
+    {
+        "name":"v2b",
+        "url":"https://v2b.areulike.top/",
+        "reg_url":"https://v2b.areulike.top/api/v1/passport/auth/register",
+        "sub":"https://sub.areulike.top/api/v1/client/subscribe?token={token}"
+    }
 ]
 
 class tempsite():
